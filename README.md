@@ -8,6 +8,7 @@ Este projeto é uma aplicação web fullstack utilizando **AdonisJS** no backend
 
 **Autentificação**[JWT]
 
+
 **Configurar o Backend**
 cd api
 
@@ -18,6 +19,7 @@ cp .env.example .env
 npm install node ace migration:run
 
 npm run dev
+
 
 **Configurar o Frontend**
 
