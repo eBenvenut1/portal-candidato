@@ -1,5 +1,5 @@
 Este projeto é uma aplicação web fullstack utilizando **AdonisJS** no backend e **React** no frontend
-**Backend**[AdonisJS]
+**Backend**[AdonisJS] -m
 **Frontend**[React]
 **Banco de dados**[MySQL]
 **Autentificação**[JWT]
