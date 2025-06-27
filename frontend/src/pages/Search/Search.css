@@ -1,0 +1,38 @@
+.search-candidatos {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.search-candidatos h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.candidato-card {
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.candidato-card:hover {
+  transform: scale(1.01);
+}
+
+.candidato-card strong {
+  font-size: 18px;
+}
+
+.candidato-card hr {
+  margin: 10px 0;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+
+.btn{
+    margin-top: 1em;
+}

@@ -1,0 +1,20 @@
+// utils/habilidades.js
+export const habilidadesOptions = [
+  { value: "Java", label: "Java" },
+  { value: "Node.js", label: "Node.js" },
+  { value: "C++", label: "C++" },
+  { value: "PHP", label: "PHP" },
+  { value: "Python", label: "Python" },
+  { value: "Go", label: "Go" },
+  { value: "ADVPL", label: "ADVPL" },
+  { value: "Angular", label: "Angular" },
+  { value: "Electron", label: "Electron" },
+  { value: "React", label: "React" },
+  { value: "React Native", label: "React Native" },
+  { value: "MongoDB", label: "MongoDB" },
+  { value: "MySQL", label: "MySQL" },
+  { value: "SQLServer", label: "SQLServer" },
+  { value: "Postgres", label: "Postgres" },
+  { value: "Backend", label: "Backend" },
+  { value: "Front-End", label: "Front-End" },
+];
